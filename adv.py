@@ -2,7 +2,7 @@
 currentroom = 1
 
 invRoom0 = []
-invRoom1 = [] 
+invRoom1 = ["baloon"] 
 invRoom2 = ["longsword", "key"]
 invRoom3 = []
 invRoom4 = ["matches"]
